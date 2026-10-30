@@ -35,7 +35,7 @@
     "@types/react": "^18.2.25",
     "@types/react-dom": "^18.2.10",
     "@vite-pwa/astro": "0.5.0",
-    "astro": "4.10.3",
+    "astro": "7.3.3",
     "deepmerge": "4.3.1",
     "focus-trap-react": "10.2.3",
     "framer-motion": "10.16.4",
@@ -48,7 +48,7 @@
     "react-icons": "4.11.0",
     "react-wrap-balancer": "1.1.0",
     "react-youtube": "10.1.0",
-    "uuid": "10.0.0",
+    "uuid": "14.0.3",
     "zustand": "4.4.3"
   },
   "devDependencies": {
@@ -62,13 +62,13 @@
     "@storybook/addon-onboarding": "8.0.9",
     "@storybook/blocks": "8.0.9",
     "@storybook/react": "8.0.9",
-    "@storybook/react-vite": "8.0.9",
+    "@storybook/react-vite": "8.6.19",
     "@storybook/test": "8.0.9",
     "@typescript-eslint/eslint-plugin": "6.7.4",
     "@typescript-eslint/parser": "6.7.4",
     "astro-eslint-parser": "0.16.0",
     "autoprefixer": "10.4.16",
-    "commitizen": "4.3.0",
+    "commitizen": "4.3.2",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.50.0",
     "eslint-config-prettier": "9.0.0",
@@ -92,12 +92,12 @@
     "prettier-plugin-astro": "0.12.0",
     "prop-types": "15.8.1",
     "standard-version": "9.5.0",
-    "storybook": "8.0.9",
+    "storybook": "8.6.19",
     "stylelint": "15.10.3",
     "stylelint-config-html": "1.1.0",
     "stylelint-config-recess-order": "4.4.0",
     "stylelint-config-standard": "34.0.0",
     "stylelint-prettier": "4.0.2",
-    "vitest": "1.6.0"
+    "vitest": "5.0.5"
   }
 }
